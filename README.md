@@ -1,7 +1,7 @@
 # cogs18project
 Project for COGS18 Spring 2021
 
-  The goal of this project is to fetch nutritional information on an item using the barcode. The project makes use of the website openfoodfacts.org, and requires a webcam of some sort. When the code is run, the computer's camera will turn on, and a food item can be held up to the camera and scanned. Upon being scanned, a link will open to openfoodfacts.org, where everything from nutritional info to serving size and general information about the product will be displayed.
+  The goal of this project is to fetch nutritional information on an item using a barcode scanned by the webcam. The project makes use of the website openfoodfacts.org, and requires a webcam of some sort. When the code is run, the computer's camera will turn on, and a food item can be held up to the camera and scanned. Upon being scanned, a link will open the browser to openfoodfacts.org, where everything from nutritional info to serving size and general information about the product will be displayed.
 
 
 
